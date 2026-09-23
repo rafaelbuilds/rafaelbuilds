@@ -1,16 +1,48 @@
-## Hi there 👋
+# Rafael Mendes
 
-<!--
-**rafaelbuilds/rafaelbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer • Tech Lead • Entrepreneur
 
-Here are some ideas to get you started:
+I build software solutions, APIs and SaaS products focused on solving real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on software engineering, system architecture and turning ideas into scalable digital products.
+
+
+## 🛠️ Core Stack
+
+**Backend**
+- C# / .NET
+
+**Frontend**
+- TypeScript
+- React
+- React Native
+
+**Database**
+- PostgreSQL
+
+
+## ⚙️ Engineering & Tools
+
+- Git & GitHub
+- Docker
+- REST APIs
+- Clean Architecture
+- Automated Testing
+
+
+## ☁️ Currently Exploring
+
+- AWS & Cloud Architecture
+- CI/CD
+- AI Engineering
+- Distributed Systems
+
+
+## 🚀 What I'm Building
+
+I'm currently focused on developing software products and SaaS solutions that connect technology, business and automation.
+
+
+## 📫 Connect with me
+
+www.linkedin.com/in/devrafaelmendes • rafaeltrabalhoprofissional.t@gmail.com
