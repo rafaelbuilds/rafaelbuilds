@@ -46,3 +46,7 @@ I'm currently focused on developing software products and SaaS solutions that co
 ## 📫 Connect with me
 
 www.linkedin.com/in/devrafaelmendes • rafaeltrabalhoprofissional.t@gmail.com
+
+## 🚀 Current Focus
+
+Building software solutions, APIs and SaaS products.
