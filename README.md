@@ -40,7 +40,7 @@ My focus is on software engineering, system architecture and turning ideas into 
 
 ## 🚀 What I'm Building
 
-I'm currently focused on developing software products and SaaS solutions that connect technology, business and automation..
+I'm currently focused on developing software products and SaaS solutions that connect technology, business and automation.
 
 
 ## 📫 Connect with me
